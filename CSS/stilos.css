@@ -1,0 +1,54 @@
+.miFoto {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 12px;
+    padding: 5px;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    }
+.myDiv {
+    border: 2px solid black;
+    border-radius: 12px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 1px;
+     }
+    
+  div{
+     background-image: url(490x_770-420-entrevista-trabajo.jpg);
+      background-size: cover;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-position: center;git
+      font-family: "Sofia", sans-serif;
+      font-size: 20px;
+      }
+   
+h4 {
+    text-decoration: underline;
+    text-indent: 20px;
+    font-size: 20px;
+   }
+
+  .button {
+    display: inline-block;
+    padding: 8px 17px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #5188ff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #3e8e41}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
